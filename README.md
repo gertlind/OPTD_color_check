@@ -1,6 +1,8 @@
 # Background
 I wanted to compare 3D filaments color correctness between different brands as much as possible without needing to have the physical filament in hand.
-Using [FilamentDB](https://github.com/hyiger/filament-db/blob/main/README.md) and the function "Browse OpenPrintTag DB" led me to create a small [python script](https://github.com/gertlind/optd-color/blob/main/README.md) where you can search for the color code and list the brands that offers filamnet with the color code you want.
+Using [Hyigers's FilamentDB](https://github.com/hyiger/filament-db/blob/main/README.md) and the function "Browse OpenPrintTag DB" led me to create a small [python script](https://github.com/gertlind/optd-color/blob/main/README.md) where you can search for the color code and list the brands that offers filament with the color code you want.<BR><BR>
+Read up on how RGB works:
+[RGB Explained](https://en.wikipedia.org/wiki/RGB_color_model)
 
 ---
 python3 optd_color.py 41a840ff --material PETG
