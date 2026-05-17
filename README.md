@@ -15,14 +15,22 @@ Brands:
 
 Details:
 - ATARAXIA ART | PETG | PETG Green | #41a840ff
+  Photo: https://files.openprinttag.org/ataraxia-art/ataraxia-art-petg-green/beefdc4ad5ec.jpg
 - CC3D | PETG | Translucen PETG Grass Green | #41a840ff
+  Photo: https://files.openprinttag.org/cc3d/cc3d-translucen-petg-grass-green/5c166701d874.jpg
 - Creality | PETG | PETG Green | #41a840ff
+  Photo: https://files.openprinttag.org/creality/creality-petg-green/f2bcfcf5ed16.jpg
 - EconoFil | PETG | Standard PETG Dark Green | #41a840ff
 - Numakers | PETG | PETG-HS Grass Green | #41a840ff
+  Photo: https://files.openprinttag.org/numakers/numakers-petg-hs-grass-green/numakers-petg-hs-grass-green-0-228b2dac.jpg
 - SMART MATERIALS 3D | PETG | PETG Chlorophyll | #41a840ff
+  Photo: https://files.openprinttag.org/smart-materials-3d/smart-materials-3d-petg-chlorophyll/b9bea2c97ed8.png
 - add:north | PETG | PETG Green | #41a840ff
+  Photo: https://files.openprinttag.org/addnorth/addnorth-petg-green/e0f5c394943b.png
 - extrudr | PETG | PETG signal green | RAL 6037 | #41a840ff
+  Photo: https://files.openprinttag.org/extrudr/extrudr-petg-signal-green-ral-6037/5c0f75c487a3.png
 - extrudr | PETG | PETG transparent green | RAL 6018 | #41a840ff
+  Photo: https://files.openprinttag.org/extrudr/extrudr-petg-transparent-green-ral-6018/790f5db853e0.png
 
 
 
@@ -37,4 +45,4 @@ Details:
 | SMART MATERIALS 3D  |[PETG Chlorophyll](https://www.smartmaterials3d.com/inicio?q=MATERIAL-PETG/Color-Chlorophyll)|<img src="images/smart_materials_petg.chlorophyll.jpg" width="120">|
 | add:north  |[PETG Green](https://addnorth.se/product/PETG/PETG%20-%201.75mm%20-%201000g%20-%20Green)|<img src="images/addnorth_PETG_Green_1000g_1500x1500_WeYfEu.png" width="120">|
 | extrudr  | [PETG signal green](https://www.extrudr.com/en/se/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1OA%3D%3D)|<img src="images/Extruder_PETG_signalgreen.avif" width="120">|
-| extrudr  | [PETG transparent green](https://www.extrudr.com/en/se/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MTk4NA%3D%3D)|<img src="images/Extruder_PETG_transgreen.avif" width="120">|
+| extrudr  | [PETG transparent green](https://www.extrudr.com/en/se/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MTk4NA%3D%3D)|<img src="images/extrudr-petg-transparent-green-ral-6018.png" width="120">|
